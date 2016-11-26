@@ -1,0 +1,11 @@
+{
+  "name": "test2d",
+  "version": "1.0.0",
+  "description": "skb-test2d",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "roman smirnov",
+  "license": "ISC"
+}
